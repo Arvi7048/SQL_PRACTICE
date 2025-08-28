@@ -29,4 +29,16 @@ revising and enhancing SQL problems solving
 | [1827-invalid-tweets](https://github.com/Arvi7048/SQL_PRACTICE/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Arvi7048/SQL_PRACTICE/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Arvi7048/SQL_PRACTICE/tree/master/2087-confirmation-rate) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arvi7048/SQL_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arvi7048/SQL_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Arvi7048/SQL_PRACTICE/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
